@@ -1,4 +1,9 @@
-# [Twitter Sentiment Analysis](https://twitsentiments.herokuapp.com/)
+# [Twitter Sentiment Analysis]
+<br>
+<img src='C:\Users\Garimagarg\Downloads\preview.png'>
+
+<br>
+<p align="center">
 ![preview]
 
 
