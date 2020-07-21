@@ -1,6 +1,6 @@
 # [Twitter Sentiment Analysis]
 <br>
-<img src='C:\Users\Garimagarg\Downloads\preview.png'>
+<img src='https://github.com/GarimaGarg29/Twitter-Sentiment-Analysis/blob/master/preview.png'>
 
 <br>
 <p align="center">
