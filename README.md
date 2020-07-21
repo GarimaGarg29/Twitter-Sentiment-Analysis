@@ -8,7 +8,7 @@
 
 
 
-#### Project made as part of Harvard CS50X course
+#### Project made as part of Internship
 
 Its a sentiment analysis project. It fetches tweets using Twitter API. Then, parses and evaluate each tweet against list of positive, negative words. Outputs the chart showing percentages of each sentiments.
 
